@@ -1,4 +1,4 @@
 # bycycle
-Created by Toma (Telegram-@brickstick) and Ilya (Telegram-@penkosnimatel)
+Created by @brickstick (Telegram) and @penkosnimatel (Telegram)
 
 https://penkosnimatel.github.io/bycycle/
